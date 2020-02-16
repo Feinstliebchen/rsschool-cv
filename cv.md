@@ -1,12 +1,12 @@
-# ANASTASIA KALININA
+# Anastasia Kalinina
 
-## PERSONAL INFORMATION
+## Personal Information
 
 Phone:	+7 952 788 6829
 
 E-mail:	vergiesmichnicht@mail.ru
 
-## SUMMARY OF EXPERIENCE
+## Summary of Experience
 
 * *Operating systems*: Windows, Android, Linux
 * *Tools & Programs*: CRM systems (SAP), BI systems (Oracle BI, Microstrategy); MS Office Components; bug tracker systems (Redmine, Jira,  Argus-ktp, Lotus); personal management system (Teleopti);
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 }
 ``
 
-## EMPLOYMENT HISTORY
+## Employment History
 
 4.02.2014 – 28.05.2017  Kelly Services CIS (on behalf of Intel) –  Data Quality Analyst
 -	Providing support by updating the total amount of the data, analyzing information needs, consulting database, integration and testing new services, solving problems regarding marketing program, analyzing of risks and reasons of errors, preparation of documents, professional interaction with the customers from Intel side.
@@ -72,7 +72,7 @@ Award: for support, commitment and effort of implementation of new system (by In
 16.10.2019 - present OOO Gamma-Region – Software Validation Engineer
 -	Test scheduling and describing, Software validation, Analyzing validation results, Creation of test-plans and test-cases, Bag classification, Documentation implementing (Queuing system testing: central system, local system, operator’s virtual desk, panel; Information panel testing)
 
-## EDUCATION
+## Education
 
 2009 – 2014 	Linguistics University of Nizhny Novgorod
 Faculty of Romance and Germanic languages – Specialist
